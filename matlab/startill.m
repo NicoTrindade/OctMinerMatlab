@@ -7,7 +7,7 @@ end
 cmds = {'help', 'mfit','mview','rescal'};
 tips = {'Help', 'Data Fitting (mfit+mview+rescal)','Data browsing (mview+mfit+rescal)','TAS resolution function (ONLY rescal)'};
 
-%Verify the 
+%Verify the ???
 
 if strcmp(cmd, 'listdlg')
 
