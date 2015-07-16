@@ -1,0 +1,5 @@
+#Eclipse Product File
+#Mon Mar 10 18:37:19 CST 2008
+version=0.9.1
+name=Octclipse 
+id=net.sf.octclipse.rcp.product
